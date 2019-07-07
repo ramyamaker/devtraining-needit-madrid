@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="needit_staging" max_length="40" name="x_58872_needit_needit_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=class" label="class" max_length="40" name="u_class" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=gpa" label="gpa" max_length="40" name="u_gpa" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=marks" label="marks" max_length="40" name="u_marks" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=percentage" label="percentage" max_length="40" name="u_percentage" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=rollno" label="rollno" max_length="40" name="u_rollno" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=section" label="section" max_length="40" name="u_section" type="string"/>
+    </element>
+</database>
